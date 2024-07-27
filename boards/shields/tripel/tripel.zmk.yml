@@ -1,0 +1,9 @@
+file_format: "1"
+id: tripel
+name: Tripel
+type: shield
+url: https://github.com/dennis531/tripel-shield-module
+requires:
+  - pro_micro
+features:
+  - keys

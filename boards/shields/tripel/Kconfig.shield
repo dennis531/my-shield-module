@@ -1,0 +1,2 @@
+config SHIELD_TRIPEL
+    def_bool $(shields_list_contains,tripel)

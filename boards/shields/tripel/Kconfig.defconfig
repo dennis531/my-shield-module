@@ -1,0 +1,6 @@
+if SHIELD_TRIPEL
+
+config ZMK_KEYBOARD_NAME
+    default "Tripel Board"
+
+endif
